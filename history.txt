@@ -1,0 +1,16 @@
+ 1033  git switch feature
+ 1034  git branch feature
+ 1035  git branch
+ 1036  git switch feature
+ 1037  git branch
+ 1038  ls -la
+ 1039  touch README.md
+ 1040  nano README.md
+ 1041  nano .gitignore
+ 1042  git add .
+ 1043  git commit -m "changed 2 files"
+ 1044  git commit --amend -m "ammend"
+ 1045  switch main
+ 1046  git switch main
+ 1047  git merge feature
+ 1048  touch history.txt
